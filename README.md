@@ -30,6 +30,7 @@ Please use the markdown syntax:
 - [QuickRef.me](https://quickref.me/) - cheatsheets for different langs. *(H4Z3)*
 - [Temp-Mail.org](https://temp-mail.org/) - temporary mail service. *(Soulsender)*
 - [mail.tm](https://mail.tm/en/) - temporary mail service *(Soulsender)*
+- [malware-snippets](https://github.com/CosmodiumCS/Malware-Snippets) - a repository of various commands and snippets of code. *(Cosmo)*
 
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
