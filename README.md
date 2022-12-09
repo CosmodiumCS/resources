@@ -32,6 +32,7 @@ Please use the markdown syntax:
 - [mail.tm](https://mail.tm/en/) - temporary mail service *(Soulsender)*
 - [malware-snippets](https://github.com/CosmodiumCS/Malware-Snippets) - a repository of various commands and snippets of code. *(Cosmo)*
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
+- [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
 
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
