@@ -40,3 +40,4 @@ Please use the markdown syntax:
 ## Wordlists
 - [cryptoKing](https://securityplayground.pw/TheBigList.zip)
 - [Delilah](https://h.acker.is/74gb-wordlist-released-princesspi7-4/)
+- [Routers Schemea](https://forums.hak5.org/topic/39403-table-of-wifi-password-standards/) *(Matze)*
