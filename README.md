@@ -33,6 +33,8 @@ Please use the markdown syntax:
 - [malware-snippets](https://github.com/CosmodiumCS/Malware-Snippets) - a repository of various commands and snippets of code. *(Cosmo)*
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
 - [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
+- [Netgear Password Contructor](https://github.com/redsquirrel7/Netgear-Password-Constructinator) - contructs passwords for netgear routers. *(Matze)*
+- [Router Password Schemea](https://forums.hak5.org/topic/39403-table-of-wifi-password-standards/) - list of how routers generate their passwords. *(Matze)*
 
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
@@ -40,4 +42,4 @@ Please use the markdown syntax:
 ## Wordlists
 - [cryptoKing](https://securityplayground.pw/TheBigList.zip)
 - [Delilah](https://h.acker.is/74gb-wordlist-released-princesspi7-4/)
-- [Routers Schemea](https://forums.hak5.org/topic/39403-table-of-wifi-password-standards/) *(Matze)*
+
