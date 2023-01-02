@@ -17,8 +17,6 @@ Please use the markdown syntax:
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Bitwarden server written in rust. *(Soulsender)*
 - [GhostShell](https://github.com/S12cybersecurity/GhostShell) - shell that forces Proxychains and tor. *(TheIonicChargedWeeb)*
 
-
-
 ## Web Tools & Notes
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
 - [awesome-web-security](https://github.com/MiladMSFT/ThreatHunt) - list of web security material - password recovery community. *(Delilah)*
@@ -35,6 +33,8 @@ Please use the markdown syntax:
 - [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
 - [Netgear Password Contructor](https://github.com/redsquirrel7/Netgear-Password-Constructinator) - contructs passwords for netgear routers. *(Matze)*
 - [Router Password Schemea](https://forums.hak5.org/topic/39403-table-of-wifi-password-standards/) - list of how routers generate their passwords. *(Matze)*
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of selfhosted services. *(Soulsender)*
+- [Kali Custom Images](https://www.kali.org/docs/development/live-build-a-custom-kali-iso/) - instructions on creating a custom kali image. *(Watchdogeditor)* 
 
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
