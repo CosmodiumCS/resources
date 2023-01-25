@@ -26,6 +26,7 @@ Please use the markdown syntax:
 - [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
 - [Darknet Forums](https://dark.fail/) - collection of darknet forums. *(Banana)*
 - [DeepWeb Intel Feed](https://darkfeed.io/) - Ransomware feed monitor. *(Uberguidoz)*
+- [PhishTool](https://www.phishtool.com/) - phishing email analysis. *(Matze)*
 
 ## Lists
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
