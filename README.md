@@ -48,13 +48,13 @@ Please use the markdown syntax:
 - [How to study smart](https://youtu.be/IlU-zDU6aQ0) - a guide on the best way to study to maximize efficency. *(TheIonicChargedWeeb)*
 
 ## Malware Analysis & Databases
-[Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
-[Threatzone](https://threat.zone/) - realtime interactive malware analysis. *(At0m)*
-[Joesandbox](https://www.joesandbox.com/#windows) - realtime interactive malware analysis. *(At0m)*
-[Hybrid Analysis](https://hybrid-analysis.com/) - malware database and analysis. *(At0m)*
-[Triage](https://tria.ge/) - malware database. *(At0m)*
-[Unpack](https://www.unpac.me/#/) - automated malware unpacking service. *(At0m)*
-[Malware Bazzar](https://bazaar.abuse.ch/browse/) - malware database. *(At0m)*
+- [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
+- [Threatzone](https://threat.zone/) - realtime interactive malware analysis. *(At0m)*
+- [Joesandbox](https://www.joesandbox.com/#windows) - realtime interactive malware analysis. *(At0m)*
+- [Hybrid Analysis](https://hybrid-analysis.com/) - malware database and analysis. *(At0m)*
+- [Triage](https://tria.ge/) - malware database. *(At0m)*
+- [Unpack](https://www.unpac.me/#/) - automated malware unpacking service. *(At0m)*
+- [Malware Bazzar](https://bazaar.abuse.ch/browse/) - malware database. *(At0m)*
 
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
