@@ -45,6 +45,7 @@ Please use the markdown syntax:
 - [Traffic Light Hacking](https://twitter.com/hetmehtaa/status/1617856763193352195) - hacking traffic lights. *(Deliliah)*
 - [Weaponizing Yubikey](https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/) - weaponizing the yubikey. *(Deliliah)*
 - [Huge Collection of PDFs](https://mega.nz/folder/Ikl2TAAD#urHrrA_fqdMs0uxSlUKPZA) - a huge collection of various PDFs for different cyber-related subjects. *(Deliliah)*
+- [How to study smart](https://youtu.be/IlU-zDU6aQ0) - a guide on the best way to study to maximize efficency. *(TheIonicChargedWeeb)*
 
 ## Malware Analysis & Databases
 [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
