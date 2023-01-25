@@ -44,6 +44,7 @@ Please use the markdown syntax:
 - [Kali Custom Images](https://www.kali.org/docs/development/live-build-a-custom-kali-iso/) - instructions on creating a custom kali image. *(Watchdogeditor)* 
 - [Traffic Light Hacking](https://twitter.com/hetmehtaa/status/1617856763193352195) - hacking traffic lights. *(Deliliah)*
 - [Weaponizing Yubikey](https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/) - weaponizing the yubikey. *(Deliliah)*
+- [Huge Collection of PDFs](https://mega.nz/folder/Ikl2TAAD#urHrrA_fqdMs0uxSlUKPZA) - a huge collection of various PDFs for different cyber-related subjects. *(Deliliah)*
 
 ## Malware Analysis & Databases
 [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
