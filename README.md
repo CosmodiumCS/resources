@@ -5,7 +5,7 @@ Feel free to make a pull request to add new things!
 
 Please use the markdown syntax:
 ```md
-- [tool name](tool link) - description. *(credit)*
+- [FREE or PAID] [Name of Site](https://link.here) - a brief description. *(Your Username)*
 ```
 
 ## Tools & Programs
