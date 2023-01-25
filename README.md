@@ -36,7 +36,6 @@ Please use the markdown syntax:
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of selfhosted services. *(Soulsender)*
 - [OffSec Tools](https://offsec.tools/) - various tools. *(At0m)*
 
-
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
 - [Netgear Password Contructor](https://github.com/redsquirrel7/Netgear-Password-Constructinator) - contructs passwords for netgear routers. *(Matze)*
@@ -45,8 +44,18 @@ Please use the markdown syntax:
 - [Traffic Light Hacking](https://twitter.com/hetmehtaa/status/1617856763193352195) - hacking traffic lights. *(Deliliah)*
 - [Weaponizing Yubikey](https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/) - weaponizing the yubikey. *(Deliliah)*
 
+## Malware Analysis & Databases
+[Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
+[Threatzone](https://threat.zone/) - realtime interactive malware analysis. *(At0m)*
+[Joesandbox](https://www.joesandbox.com/#windows) - realtime interactive malware analysis. *(At0m)*
+[Hybrid Analysis](https://hybrid-analysis.com/) - malware database and analysis. *(At0m)*
+[Triage](https://tria.ge/) - malware database. *(At0m)*
+[Unpack](https://www.unpac.me/#/) - automated malware unpacking service. *(At0m)*
+[Malware Bazzar](https://bazaar.abuse.ch/browse/) - malware database. *(At0m)*
+
 ## Practice
 - [ThreatHunt](https://github.com/MiladMSFT/ThreatHunt) - threat hunting powershell. *(At0m)*
+- [MalShare](https://malshare.com/index.php) - downloadable malware for practice and analysis. *(At0m)*
 
 ## Wordlists
 - [cryptoKing](https://securityplayground.pw/TheBigList.zip)
