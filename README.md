@@ -1,6 +1,8 @@
 # Resources
 A list of different misc resources from the discord.
 
+#### WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
+
 Feel free to make a pull request to add new things!
 
 Please use the markdown syntax:
@@ -23,11 +25,15 @@ Please use the markdown syntax:
 - [QuickRef.me](https://quickref.me/) - cheatsheets for different langs. *(H4Z3)*
 - [Temp-Mail.org](https://temp-mail.org/) - temporary mail service. *(Soulsender)*
 - [mail.tm](https://mail.tm/en/) - temporary mail service *(Soulsender)*
-- [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
-- [Darknet .onion List](https://darknet.fail/) - collection of darknet forums. *(Banana)*
-- [tor.taxi](https://tor.taxi/) - links to onion sites. *(Soulsender)*
 - [DeepWeb Intel Feed](https://darkfeed.io/) - Ransomware feed monitor. *(Uberguidoz)*
 - [PhishTool](https://www.phishtool.com/) - phishing email analysis. *(Matze)*
+
+## Darkweb
+> WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
+- [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
+- [Darknet .onion List](https://darknet.fail/) - collection of darknet forums. *(Banana)*
+- CLEARNET: [tor.taxi](https://tor.taxi/) DARKNET: [.onion](http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion) - links to onion sites. *(Soulsender)*
+- CLEARNET: [The Hidden Wiki](https://thehiddenwiki.org/) DARKNET: [.onion](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/) - links to onion sites. *(Soulsender)*
 
 ## Lists
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
