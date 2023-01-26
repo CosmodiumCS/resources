@@ -34,6 +34,7 @@ Please use the markdown syntax:
 - [Darknet .onion List](https://darknet.fail/) - collection of darknet forums. *(Banana)*
 - CLEARNET: [tor.taxi](https://tor.taxi/) DARKNET: [.onion](http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion) - links to onion sites. *(Soulsender)*
 - CLEARNET: [The Hidden Wiki](https://thehiddenwiki.org/) DARKNET: [.onion](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/) - links to onion sites. *(Soulsender)*
+- [Reddit](http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - the reddit onion site. *(Soulsender)*
 
 ## Lists
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
