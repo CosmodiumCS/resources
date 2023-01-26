@@ -24,7 +24,7 @@ Please use the markdown syntax:
 - [Temp-Mail.org](https://temp-mail.org/) - temporary mail service. *(Soulsender)*
 - [mail.tm](https://mail.tm/en/) - temporary mail service *(Soulsender)*
 - [SporeStack](https://sporestack.com/) - anonymous VPS service. *(Delilah)*
-- [Darknet Forums](https://dark.fail/) - collection of darknet forums. *(Banana)*
+- [Darknet Forums](darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion) - collection of darknet forums. *(Banana)*
 - [DeepWeb Intel Feed](https://darkfeed.io/) - Ransomware feed monitor. *(Uberguidoz)*
 - [PhishTool](https://www.phishtool.com/) - phishing email analysis. *(Matze)*
 
