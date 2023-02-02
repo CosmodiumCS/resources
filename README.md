@@ -71,4 +71,6 @@ Please use the markdown syntax:
 ## Wordlists
 - [cryptoKing](https://securityplayground.pw/TheBigList.zip)
 - [Delilah](https://h.acker.is/74gb-wordlist-released-princesspi7-4/)
+- [SecLists](https://github.com/danielmiessler/SecLists) - *(Cosmo)*
+- [Rockyou-extended](https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ) - *(Cosmo)*
 
