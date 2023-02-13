@@ -40,6 +40,7 @@ Please use the markdown syntax:
 - [Reddit](http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - the reddit onion site. *(Soulsender)*
 
 ## Lists
+- [hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - Bookmarks for osint, hacking, webtools, and more. *(Soulsender)*
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
 - [awesome-web-security](https://github.com/MiladMSFT/ThreatHunt) - list of web security material - password recovery community. *(Delilah)*
 - [OSINTsources](https://github.com/awareseven/OSINTsources) - list of osint resources. *(Haze)*
