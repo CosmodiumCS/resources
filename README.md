@@ -46,7 +46,7 @@ Please use the markdown syntax:
 - [OSINTsources](https://github.com/awareseven/OSINTsources) - list of osint resources. *(Haze)*
 - [OSINT4all](https://start.me/p/L1rEYQ/osint4all) - list of osint resources. *(UberGuidoZ)*
 - [BugBounty list](https://twitter.com/atomiczsec/status/1573430023604031488?s=46&t=kE8r4UXbHRYZgTTh4pmI-w) - list of bug bounty resources. *(At0m)*
-- [malware-snippets](https://github.com/CosmodiumCS/Malware-Snippets) - a repository of various commands and snippets of code. *(Cosmo)*
+- [malware-development](https://github.com/CosmodiumCS/Malware-Development) - a repository of various offensive development techniques. *(Cosmo)*
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of selfhosted services. *(Soulsender)*
 - [OffSec Tools](https://offsec.tools/) - various tools. *(At0m)*
 - [InfoCon](https://infocon.org/) - archive of hacking and security conference videos, documentaries, rainbow tables, wordlists and podcasts. *(At0m)*
