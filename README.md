@@ -65,6 +65,7 @@ Please use the markdown syntax:
 - [Finding Encryption Keys](https://diyinfosec.medium.com/scanning-memory-for-fek-e17ca3db09c9) - finding encryption keys in memory *(Cosmo)*
 - [Memory Forensics](https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/) - memory forensics *(Princess Delilah Mushroom)*
 - [OSINT Landscape](https://cdn.discordapp.com/attachments/885271058050068480/891455958159597598/image0.png) - OSINT landscape picture *(At0m)*
+- [Recon For the Young and Dangerous](https://github.com/cosmodiumcs/resources/recon-for-the-young-and-dangerous.md) - Finding forward-facing servers *(Crimeware)*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
