@@ -39,7 +39,7 @@ Please use the markdown syntax:
 - CLEARNET: [The Hidden Wiki](https://thehiddenwiki.org/) DARKNET: [.onion](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/) - links to onion sites. *(Soulsender)*
 - [Reddit](http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - the reddit onion site. *(Soulsender)*
 
-## Lists
+## Lists & Bookmarks
 - [hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - Bookmarks for osint, hacking, webtools, and more. *(Soulsender)*
 - [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - a list of search engines for hackers. *(Cosmo)*
 - [awesome-web-security](https://github.com/MiladMSFT/ThreatHunt) - list of web security material - password recovery community. *(Delilah)*
