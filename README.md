@@ -51,6 +51,7 @@ Please use the markdown syntax:
 - [OffSec Tools](https://offsec.tools/) - various tools. *(At0m)*
 - [InfoCon](https://infocon.org/) - archive of hacking and security conference videos, documentaries, rainbow tables, wordlists and podcasts. *(At0m)*
 - [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) - Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry. *(Matze)*
+- [RedTeamTools.com](https://www.redteamtools.com/) - collection of red teaming tools. *(Matze)*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
