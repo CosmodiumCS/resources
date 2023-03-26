@@ -18,6 +18,7 @@ Please use the markdown syntax:
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Bitwarden server written in rust. *(Soulsender)*
 - [GhostShell](https://github.com/S12cybersecurity/GhostShell) - shell that forces Proxychains and tor. *(TheIonicChargedWeeb)*
 - [OffSec Tools](https://offsec.tools/) - offensive security tools. *(At0m)*
+- [ImHex](https://github.com/WerWolv/ImHex) - "Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." *(Pandela)*
 
 ## Web Tools & Services
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
