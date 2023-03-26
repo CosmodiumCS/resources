@@ -69,6 +69,8 @@ Please use the markdown syntax:
 - [Memory Forensics](https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/) - memory forensics *(Princess Delilah Mushroom)*
 - [OSINT Landscape](https://cdn.discordapp.com/attachments/885271058050068480/891455958159597598/image0.png) - OSINT landscape picture *(At0m)*
 - [Recon For the Young and Dangerous](https://github.com/CosmodiumCS/resources/blob/main/Notes/recon-for-the-young-and-dangerous.md) - Finding forward-facing servers *(Crimeware)*
+- [Intro to modern Cryptography](https://cseweb.ucsd.edu/~mihir/papers/br-book.pdf) - *(Haze)*
+- [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
@@ -88,4 +90,5 @@ Please use the markdown syntax:
 - [Delilah](https://h.acker.is/74gb-wordlist-released-princesspi7-4/)
 - [SecLists](https://github.com/danielmiessler/SecLists) - *(Cosmo)*
 - [Rockyou-extended](https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ) - *(Cosmo)*
+- [Rockyou-rainbowtables](https://mega.nz/folder/ys8VyY5T#kZsRbSZCL9WS4T3GEoPo6g) - *(Haze)*
 
