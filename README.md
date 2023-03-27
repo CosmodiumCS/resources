@@ -72,7 +72,7 @@ Please use the markdown syntax:
 - [Recon For the Young and Dangerous](https://github.com/CosmodiumCS/resources/blob/main/Notes/recon-for-the-young-and-dangerous.md) - Finding forward-facing servers *(Crimeware)*
 - [Intro to modern Cryptography](https://cseweb.ucsd.edu/~mihir/papers/br-book.pdf) - *(Haze)*
 - [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
-- [DDoSing Bluetooth Devices]() - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
+- [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
