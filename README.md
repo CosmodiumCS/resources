@@ -33,6 +33,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [PhishTool](https://www.phishtool.com/) - phishing email analysis. *(Matze)*
 - [IntelX](https://intelx.io/tools) - site intel and services. *(Haze)*
 - [DarkFail](https://dark.fail/) - check wheather a .onion site is online *(Banana)*
+- [command-not-found.com](https://command-not-found.com/) - helps you find the package that installs a specific tool. *(Soulsender)*
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
