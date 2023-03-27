@@ -53,7 +53,7 @@ Please use the markdown syntax:
 - [InfoCon](https://infocon.org/) - archive of hacking and security conference videos, documentaries, rainbow tables, wordlists and podcasts. *(At0m)*
 - [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) - Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry. *(Matze)*
 - [RedTeamTools.com](https://www.redteamtools.com/) - collection of red teaming tools. *(Matze)*
-- [GrapheneOS Banking App Compatibility] - a list of various banking apps, and if they are compatibile with the privacy-respecting android ROM GrapheneOS. *(Soulsender)*
+- [GrapheneOS Banking App Compatibility](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - a list of various banking apps, and if they are compatibile with the privacy-respecting android ROM GrapheneOS. *(Soulsender)*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
