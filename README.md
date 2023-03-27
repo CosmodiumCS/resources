@@ -7,8 +7,10 @@ Feel free to make a pull request to add new things!
 
 Please use the markdown syntax:
 ```md
-- [FREE or PAID] [Name of Site](https://link.here) - a brief description. *(Your Username)*
+- [FREE or PAID if applicable] [Name of Site](https://link.here) - a brief description. *(Your Username)*
 ```
+
+Generally, links are organized from bottom to top with bottom being more recent.
 
 ## Tools & Programs
 - [xxh](https://github.com/xxh/xxh) - bring your shell through ssh. *(Soulsender)*
