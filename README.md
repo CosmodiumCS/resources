@@ -76,6 +76,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Intro to modern Cryptography](https://cseweb.ucsd.edu/~mihir/papers/br-book.pdf) - *(Haze)*
 - [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
 - [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
+- [Downloading files without curl or wget](https://twitter.com/0dayCTF/status/1637811331335069697?s=20) - living off the land technique. *(0Day)*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
