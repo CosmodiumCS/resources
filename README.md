@@ -78,6 +78,9 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
 - [Downloading files without curl or wget](https://twitter.com/0dayCTF/status/1637811331335069697?s=20) - living off the land technique. *(0Day)*
 
+## Books
+- [PDFDrive](https://www.pdfdrive.com/) - massive collection of free PDFs. *(Ibijon)*
+
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *(At0m)*
 - [Threatzone](https://threat.zone/) - realtime interactive malware analysis. *(At0m)*
