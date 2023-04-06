@@ -28,7 +28,8 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Hashmob](https://hashmob.net/resources/hashmob) - Password recovery community. *(Woke_Boomer)*
 - [QuickRef.me](https://quickref.me/) - cheatsheets for different langs. *(Haze)*
 - [Temp-Mail.org](https://temp-mail.org/) - temporary mail service. *(Soulsender)*
-- [mail.tm](https://mail.tm/en/) - temporary mail service *(Soulsender)*
+- [mail.tm](https://mail.tm/en/) - temporary mail service. *(Soulsender)*
+- [mail.gw](https://mail.gw) - 10 minute temporary mail service. *(Soulsender)* 
 - [DeepWeb Intel Feed](https://darkfeed.io/) - Ransomware feed monitor. *(Uberguidoz)*
 - [PhishTool](https://www.phishtool.com/) - phishing email analysis. *(Matze)*
 - [IntelX](https://intelx.io/tools) - site intel and services. *(Haze)*
