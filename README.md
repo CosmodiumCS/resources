@@ -60,6 +60,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [RedTeamTools.com](https://www.redteamtools.com/) - collection of red teaming tools. *(Matze)*
 - [GrapheneOS Banking App Compatibility](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - a list of various banking apps, and if they are compatibile with the privacy-respecting android ROM GrapheneOS. *(Soulsender)*
 - [Website that Remove Exif Data](https://stevenwoodhall.com/which-social-media-networks-remove-exif-data/) - list of popular websites and if they remove embedded exif data or not. *(Soulsender)*
+- [Git Cheatsheet](https://raw.githubusercontent.com/CosmodiumCS/resources/main/PDFs/git-cheatsheet.pdf) - common git commands and descriptions. *(Soulsender)*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
