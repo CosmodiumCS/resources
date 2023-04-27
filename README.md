@@ -21,6 +21,12 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [GhostShell](https://github.com/S12cybersecurity/GhostShell) - shell that forces Proxychains and tor. *(TheIonicChargedWeeb)*
 - [OffSec Tools](https://offsec.tools/) - offensive security tools. *(At0m)*
 - [ImHex](https://github.com/WerWolv/ImHex) - "Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." *(Pandela)*
+- [Hyper](https://hyper.is/) - Beautiful and customizable terminal. *(Solanaceae)*
+- [x64dbg](https://x64dbg.com/ -- Open source x64/x32 debugger. *(Solanaceae)*
+- [WinDirStat](https://windirstat.net/download.html) - Drive visualizer. *(Solanaceae)*
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A conglomeration of highly useful and diverse payloads. *(Solanaceae)*
+- [HashBuster](https://github.com/s0md3v/Hash-Buster) - Speedy hash cracking. *(Solanaceae)*
+- [Necro](https://github.com/muraenateam/necrobrowser) -- Necromantic session control. *Solanaceae)*
 
 ## Web Tools & Services
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
@@ -36,6 +42,15 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [DarkFail](https://dark.fail/) - check wheather a .onion site is online *(Banana)*
 - [command-not-found.com](https://command-not-found.com/) - helps you find the package that installs a specific tool. *(Soulsender)*
 - [draw.io](https://app.diagrams.net/) - network visualizer flowchart tool. *(Soulsender)*
+- [silentinstall](https://silentinstallhq.com/silent-install-knowledge-base/) - Methods to silently install software via commandline. *(Solanaceae)*
+- [revshells](https://www.revshells.com/) - Simple reverse shell generator in many languages. *(Solanaceae)*
+- [searx.space](https://searx.space/) - Secure searx instances. *(Solanaceae)*
+- [whotargetsme](https://whotargets.me/en/) - Discern what your targeted ads say about you. *(Solanaceae)*
+- [canary](https://canarytokens.com/generate) - Honeypot generator. *(Solanaceae)*
+- [packets](https://apackets.com/) - Online pcap file analyzer. *(Solanaceae)*
+- [Keyboard Eavesdropping](https://keytap3.ggerganov.com/) - Discern whether your keyboard can be eavesdropped through a microphone *(Solanaceae)*
+- [file.io](https://www.file.io/) - Easy, privacy-respecting file transferring. *(Solanaceae)*
+- [Hat.sh](https://hat.sh/) - Client-side file encryption. *(Solanaceae)*
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
@@ -44,6 +59,8 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - CLEARNET: [tor.taxi](https://tor.taxi/) DARKNET: [.onion](http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion) - links to onion sites. *(Soulsender)*
 - CLEARNET: [The Hidden Wiki](https://thehiddenwiki.org/) DARKNET: [.onion](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/) - links to onion sites. *(Soulsender)*
 - [Reddit](http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - the reddit onion site. *(Soulsender)*
+- CLEARNET: [Seedr](https://www.seedr.cc/) - Best free seedbox; 2gb+ of storage. *(Solanaceae)*
+- [OnionShare](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) - Onion webhosting and/or secure chat service. *(Solanaceae)*
 
 ## Lists & Bookmarks
 - [hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - Bookmarks for osint, hacking, webtools, and more. *(Soulsender)*
@@ -61,6 +78,9 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [GrapheneOS Banking App Compatibility](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - a list of various banking apps, and if they are compatibile with the privacy-respecting android ROM GrapheneOS. *(Soulsender)*
 - [Website that Remove Exif Data](https://stevenwoodhall.com/which-social-media-networks-remove-exif-data/) - list of popular websites and if they remove embedded exif data or not. *(Soulsender)*
 - [Git Cheatsheet](https://raw.githubusercontent.com/CosmodiumCS/resources/main/PDFs/git-cheatsheet.pdf) - common git commands and descriptions. *(Soulsender)*
+- [Ninite](https://ninite.com/) - Mass software downloader. *(Solanaceae)*
+- [FreeCerts](https://github.com/cloudcommunity/Free-Certifications) - An extensive list of free courses and certifications. *(Solanaceae)*
+- [alt.to](https://alternativeto.net/) - Privacy friendly alternatives to common software. *(Solanaceae)*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
@@ -81,6 +101,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
 - [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
 - [Downloading files without curl or wget](https://twitter.com/0dayCTF/status/1637811331335069697?s=20) - living off the land technique. *(0Day)*
+- [DefaultPasswords](https://default-password.info/) - Hundreds of default network hardware passwords; filterable by router manufacturer. *(Solanaceae)*
 
 ## Books
 - [PDFDrive](https://www.pdfdrive.com/) - massive collection of free PDFs. *(Ibijon)*
@@ -104,4 +125,5 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [SecLists](https://github.com/danielmiessler/SecLists) - *(Cosmo)*
 - [Rockyou-extended](https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ) - *(Cosmo)*
 - [Rockyou-rainbowtables](https://mega.nz/folder/ys8VyY5T#kZsRbSZCL9WS4T3GEoPo6g) - *(Haze)*
+- [CUPP](https://github.com/Mebus/cupp) - Generates password lists based upon common user passwords. *(Solanaceae)*
 
