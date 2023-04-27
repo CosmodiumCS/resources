@@ -22,11 +22,11 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [OffSec Tools](https://offsec.tools/) - offensive security tools. *(At0m)*
 - [ImHex](https://github.com/WerWolv/ImHex) - "Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." *(Pandela)*
 - [Hyper](https://hyper.is/) - Beautiful and customizable terminal. *(Solanaceae)*
-- [x64dbg](https://x64dbg.com/) -- Open source x64/x32 debugger. *(Solanaceae)*
+- [x64dbg](https://x64dbg.com/) - Open source x64/x32 debugger. *(Solanaceae)*
 - [WinDirStat](https://windirstat.net/download.html) - Drive visualizer. *(Solanaceae)*
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A conglomeration of highly useful and diverse payloads. *(Solanaceae)*
 - [HashBuster](https://github.com/s0md3v/Hash-Buster) - Speedy hash cracking. *(Solanaceae)*
-- [Necro](https://github.com/muraenateam/necrobrowser) -- Necromantic session control. *Solanaceae)*
+- [Necro](https://github.com/muraenateam/necrobrowser) - Necromantic session control. *Solanaceae)*
 
 ## Web Tools & Services
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
