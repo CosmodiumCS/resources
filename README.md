@@ -26,7 +26,8 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [WinDirStat](https://windirstat.net/download.html) - Drive visualizer. *(Solanaceae)*
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A conglomeration of highly useful and diverse payloads. *(Solanaceae)*
 - [HashBuster](https://github.com/s0md3v/Hash-Buster) - Speedy hash cracking. *(Solanaceae)*
-- [Necro](https://github.com/muraenateam/necrobrowser) - Necromantic session control. *Solanaceae)*
+- [Necro](https://github.com/muraenateam/necrobrowser) - Necromantic session control. *(Solanaceae)*
+- [FastForward](https://github.com/FastForwardTeam/FastForward) - Pay-per-link bypassing browser extension *(Solanaceae)*
 
 ## Web Tools & Services
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *(Soulsender)*
