@@ -52,6 +52,10 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Keyboard Eavesdropping](https://keytap3.ggerganov.com/) - Discern whether your keyboard can be eavesdropped through a microphone *(Solanaceae)*
 - [file.io](https://www.file.io/) - Easy, privacy-respecting file transferring. *(Solanaceae)*
 - [Hat.sh](https://hat.sh/) - Client-side file encryption. *(Solanaceae)*
+- [DefaultPasswords](https://default-password.info/) - Hundreds of default network hardware passwords; filterable by router manufacturer. *(Solanaceae)*
+- [Ninite](https://ninite.com/) - Mass software downloader. *(Solanaceae)*
+- [FreeCerts](https://github.com/cloudcommunity/Free-Certifications) - An extensive list of free courses and certifications. *(Solanaceae)*
+- [alt.to](https://alternativeto.net/) - Privacy friendly alternatives to common software. *(Solanaceae)*
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
@@ -79,9 +83,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [GrapheneOS Banking App Compatibility](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - a list of various banking apps, and if they are compatibile with the privacy-respecting android ROM GrapheneOS. *(Soulsender)*
 - [Website that Remove Exif Data](https://stevenwoodhall.com/which-social-media-networks-remove-exif-data/) - list of popular websites and if they remove embedded exif data or not. *(Soulsender)*
 - [Git Cheatsheet](https://raw.githubusercontent.com/CosmodiumCS/resources/main/PDFs/git-cheatsheet.pdf) - common git commands and descriptions. *(Soulsender)*
-- [Ninite](https://ninite.com/) - Mass software downloader. *(Solanaceae)*
-- [FreeCerts](https://github.com/cloudcommunity/Free-Certifications) - An extensive list of free courses and certifications. *(Solanaceae)*
-- [alt.to](https://alternativeto.net/) - Privacy friendly alternatives to common software. *(Solanaceae)*
+- [Shodan Dorks](https://github.com/lothos612/shodan) - list of different Shodan dork queries for camera, phones, industrial control systems, traffic lights, and more. *(Soulsender)*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
@@ -102,7 +104,6 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
 - [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *(Soulsender)*
 - [Downloading files without curl or wget](https://twitter.com/0dayCTF/status/1637811331335069697?s=20) - living off the land technique. *(0Day)*
-- [DefaultPasswords](https://default-password.info/) - Hundreds of default network hardware passwords; filterable by router manufacturer. *(Solanaceae)*
 
 ## Books
 - [PDFDrive](https://www.pdfdrive.com/) - massive collection of free PDFs. *(Ibijon)*
