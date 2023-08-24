@@ -124,6 +124,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 ## Wordlists
 - [cryptoKing](https://securityplayground.pw/TheBigList.zip)
 - [Delilah](https://h.acker.is/74gb-wordlist-released-princesspi7-4/)
+- [Delilah 2](https://securityplayground.pw/PrincessPi.html)
 - [SecLists](https://github.com/danielmiessler/SecLists) - *(Cosmo)*
 - [Rockyou-extended](https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ) - *(Cosmo)*
 - [Rockyou-rainbowtables](https://mega.nz/folder/ys8VyY5T#kZsRbSZCL9WS4T3GEoPo6g) - *(Haze)*
