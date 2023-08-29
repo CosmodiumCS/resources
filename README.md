@@ -1,7 +1,7 @@
 # Resources
 A list of different misc resources from the discord.
 
-#### WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
+#### WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT. WE DO NOT ENDORSE ILLEGAL ACTIVITY. THIS IS FOR EDUCATIONAL PURPOSES ONLY.
 
 Feel free to make a pull request to add new things!
 
@@ -56,6 +56,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Ninite](https://ninite.com/) - Mass software downloader. *(Solanaceae)*
 - [FreeCerts](https://github.com/cloudcommunity/Free-Certifications) - An extensive list of free courses and certifications. *(Solanaceae)*
 - [alt.to](https://alternativeto.net/) - Privacy friendly alternatives to common software. *(Solanaceae)*
+- [massgrave.dev](https://massgrave.dev/) - Sketchy Windows liceneses . *(Soulsender)*
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
