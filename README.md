@@ -85,6 +85,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Website that Remove Exif Data](https://stevenwoodhall.com/which-social-media-networks-remove-exif-data/) - list of popular websites and if they remove embedded exif data or not. *([Soulsender](https://github.com/Soulsender))*
 - [Git Cheatsheet](https://raw.githubusercontent.com/[CosmodiumCS](https://github.com/PrettyBoyCosmo)/resources/main/PDFs/git-cheatsheet.pdf) - common git commands and descriptions. *([Soulsender](https://github.com/Soulsender))*
 - [Shodan Dorks](https://github.com/lothos612/shodan) - list of different Shodan dork queries for camera, phones, industrial control systems, traffic lights, and more. *([Soulsender](https://github.com/Soulsender))*
+- [FreeMediaHeckYeah](https://fmhy.pages.dev/) - All-encompassing list of free media *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 
 ## Notes & Writeups
 - [protocols](https://github.com/netspooky/protocols/tree/main/broadcast_brujeria) - a summary of how protocols work. *(Crimeware)*
@@ -108,6 +109,10 @@ Generally, links are organized from bottom to top with bottom being more recent.
 
 ## Books
 - [PDFDrive](https://www.pdfdrive.com/) - massive collection of free PDFs. *(Ibijon)*
+- [Annna's-Archive](https://annas-archive.org/) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [Z-Library](https://singlelogin.re/) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [libgen](https://libgen.li/) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [Ebook Search Engine](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8#gsc.tab=0) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *([At0m](https://github.com/atomiczsec))*
