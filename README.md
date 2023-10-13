@@ -56,7 +56,12 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Ninite](https://ninite.com/) - Mass software downloader. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [FreeCerts](https://github.com/cloudcommunity/Free-Certifications) - An extensive list of free courses and certifications. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [alt.to](https://alternativeto.net/) - Privacy friendly alternatives to common software. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
-- [massgrave.dev](https://massgrave.dev/) - Sketchy Windows liceneses . *([Soulsender](https://github.com/Soulsender))*
+- [massgrave.dev](https://massgrave.dev/) - Sketchy Windows liceneses. *([Soulsender](https://github.com/Soulsender))*
+- [WebCheck](https://web-check.xyz/) - OSINT website analysis. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [0x0](https://0x0.st/) - The null pointer, small simple commandline file transmission. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [JobSearch](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [LeakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
