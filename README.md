@@ -63,6 +63,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [JobSearch](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [LeakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [FlowCV Resume Builder](https://app.flowcv.com/dashboard) - resume builder *(Anubis)*
+- [ResumeAI](https://withresumeai.com/) - free ATS checker + AI resume builder
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
